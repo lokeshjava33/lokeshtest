@@ -1,7 +1,7 @@
 package com.javatpoint;
 
 public class Emp {
-	
+	//checking git
 	private int id;
 	private String name;
 	private float salary;
